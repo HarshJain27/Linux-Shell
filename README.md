@@ -1,4 +1,4 @@
-# Unix-Shell
+# Linux-Shell
 GNU shell functionalities implementation
 
 Three Modules(Three Files):
